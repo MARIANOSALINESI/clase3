@@ -1,0 +1,55 @@
+body{
+    background-color: bisque;
+
+}
+
+h1{
+    text-align: center;
+    background-color: beige;
+    border-radius: 3px;
+}
+
+nav{
+    background-color: blanchedalmond;
+    position: fixed;
+    width: 120px;
+    height: 20%; 
+    padding: 2px; 
+    margin-left: 3px;
+    border-radius: 2px;
+}
+
+nav a{
+    display: block;
+    color:chocolate;
+    text-decoration: none;
+    margin-top: 3px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: 700;
+
+}
+
+main{
+    margin:0 160px;
+    padding: 10px;
+
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+.active{
+    background-color: chocolate;
+    color:ghostwhite;
+    margin-top: 7px;
+    border-radius: 4px;
+    margin-right: 40px;
+    cursor: grab;
+    
+
+}
